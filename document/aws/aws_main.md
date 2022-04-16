@@ -21,6 +21,7 @@ https://exam.sghaha.com
   - [AWS 개요 백서](https://d1.awsstatic.com/International/ko_KR/whitepapers/aws-overview.pdf)
 
   - 연습 문제 세트
+    - https://exam.sghaha.com
     - [https://explore.skillbuilder.aws](https://explore.skillbuilder.aws/learn/course/9160/aws-certification-official-practice-question-sets-korean) → AWS Certification Official Practice Question Sets (Korean) 검색
     - [https://explore.skillbuilder.aws/learn/course/9160/aws-certification-official-practice-question-sets-korean](https://explore.skillbuilder.aws/learn/course/9160/aws-certification-official-practice-question-sets-korean)
         - <비공식> SA associate 수험 가이드 : **[http://bit.ly/saaguide](http://bit.ly/saaguide)**
