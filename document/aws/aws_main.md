@@ -1,5 +1,8 @@
 # exam-guide
 
+- 댓글과 함께 토론하며 공부하는 대한민국 최고의 공부장소 : 
+https://exam.sghaha.com
+
 - AWS Solutions Architect-Associate
   AWS 기술을 사용하여 안전하고 강력한 솔루션을 설계할 수 있는 응시자의 능력을 검증
   객관식 ( 정답 1 개와 오답 3 개) / 선다형 (5 개 이상의 응답 중에 2 개 이상의 정답)
