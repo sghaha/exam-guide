@@ -24,4 +24,4 @@ https://exam.sghaha.com
     - [https://explore.skillbuilder.aws](https://explore.skillbuilder.aws/learn/course/9160/aws-certification-official-practice-question-sets-korean) → AWS Certification Official Practice Question Sets (Korean) 검색
     - [https://explore.skillbuilder.aws/learn/course/9160/aws-certification-official-practice-question-sets-korean](https://explore.skillbuilder.aws/learn/course/9160/aws-certification-official-practice-question-sets-korean)
         - <비공식> SA associate 수험 가이드 : **[http://bit.ly/saaguide](http://bit.ly/saaguide)**
-      30분 시간 추가 방법 : [https://edu.supertrack.co.kr/community/news.php?ptype=view&idx=5177&page=1&code=news](https://edu.supertrack.co.kr/community/news.php?ptype=view&idx=5177&page=1&code=news)
+     - 30분 시간 추가 방법 : [https://edu.supertrack.co.kr/community/news.php?ptype=view&idx=5177&page=1&code=news](https://edu.supertrack.co.kr/community/news.php?ptype=view&idx=5177&page=1&code=news)
