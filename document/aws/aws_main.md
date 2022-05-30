@@ -1,7 +1,9 @@
 # exam-guide
 
-댓글과 함께 토론하며 공부하는 대한민국 최고의 공부장소 : 
+지식을 나누는 클라우드 자격증 준비 : 오아클
 https://exam.sghaha.com
+
+
 
 - AWS Solutions Architect-Associate
   AWS 기술을 사용하여 안전하고 강력한 솔루션을 설계할 수 있는 응시자의 능력을 검증
